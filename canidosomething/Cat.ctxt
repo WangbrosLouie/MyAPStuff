@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Cat
+comment0.text=\n\ what\ kinda\ stupid\ layout\ is\ this\ its\ so\ professional\ yech\n\ and\ also\ whats\ with\ all\ the\ excessive\ spacing\ of\ the\ {s\n\ why\ does\ it\ need\ its\ own\ line\n\ and\ whats\ with\ the\ empty\ line\ 1\ the\ heck\ is\ this\n\n\ @Louie\ Wang\n\ @nya1\n
+comment1.params=nAME\ aGE
+comment1.target=Cat(java.lang.String,\ int)
+comment1.text=\n\ make\ a\ cat\n
+comment2.params=
+comment2.target=float\ howCatty()
+comment2.text=\n\ how\ nyansical\ is\ that\ cat\n\n\ @return\ \ \ \ the\ cattiness\ value\n
+numComments=3
