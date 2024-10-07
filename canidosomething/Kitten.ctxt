@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Kitten
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Kitten\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=nAME\ aGE\ mONTHS
+comment1.target=Kitten(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=float\ howCatty()
+comment2.text=\r\n\ how\ nyansical\ is\ that\ cat\r\n\r\n\ @return\ \ \ \ the\ cattiness\ value\r\n
+comment3.params=add
+comment3.target=float\ moreCatty(float)
+comment4.params=sayWhat
+comment4.target=void\ sayToCat(java.lang.String)
+comment5.params=
+comment5.target=void\ sayToConsoleCat()
+numComments=6

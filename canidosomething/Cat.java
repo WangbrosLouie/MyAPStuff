@@ -10,9 +10,9 @@
  */
 public class Cat {
     // instance variables - replace the example below with your own
-    private String Name;
-    private int Age;
-    private float Cattiness;
+    String Name;
+    int Age;
+    float Cattiness;
 
     /**
      * make a cat
@@ -41,5 +41,25 @@ public class Cat {
     public float moreCatty(float add) {
       Cattiness += add;
       return Cattiness;
+    }
+    
+    public void sayToCat(String sayWhat) {
+      switch(sayWhat.toLowerCase()){
+      case "meow":
+        System.out.println("Mraow");
+        break;
+      default:
+        System.out.println("Meow?");
+      }
+    }
+    
+    public void sayToConsoleCat() {
+      switch(new java.util.Scanner(System.in).nextLine().toLowerCase()){
+      case "meow":
+        System.out.println("Mraow");
+        break;
+      default:
+        System.out.println("Meow?");
+      }
     }
 }
